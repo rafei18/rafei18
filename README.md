@@ -14,31 +14,23 @@ As a Data Scientist, I am deeply interested in Machine Learning, Data Analysis, 
 
 ---
 
-## Skills
+Skills
 
-- **Programming:** Python, R, C, Java, SQL
-- **Data Science:** Machine Learning, Deep Learning, NLP (Huggingface, NLTK, spaCy), Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, Numpy, Matplotlib, Seaborn
-- **Data Engineering:** PySpark, ETL Pipelines, Apache Airflow, Astro
-- **MLOps:** Git, Docker, CI/CD, MLFlow, DVC, Apache Airflow, AWS SageMaker, Grafana, PostgreSQL
-- **Cloud:** AWS (Bedrock, SageMaker, EC2, ECR, S3, Lambda, Elastic Beanstalk, API Gateway, …)
-- **Monitoring:** Grafana
-
----
-
-### Machine Learning Methodologies:
-
-- **Supervised Learning:** Logistic Regression, Random Forest, SVM, Boosting, **XGBoost**, **LightGBM**
-- **Unsupervised Learning:** K-means, Clustering, Factor Analysis
-- **NLP:** RNN, LSTM, GRU, Seq2Seq Model, Attention Mechanism, Transformers
-
----
-
-## Key Projects & Expertise
-
-- **Build scalable MLOps pipelines** with Git, Docker, and CI/CD integration.
-- **Implement MLFlow and DVC** for model versioning and experiment tracking.
-- **Automate ETL pipelines** and ML workflows using Apache Airflow and Astro.
-- **Deploy end-to-end ML models** with AWS SageMaker and Huggingface.
+Programming : Python, R, C, Java, SQL.
+Data Science : Machine Learning, Deep Learning, NLP (Huggingface, NLTK, spaCy), Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, Numpy, Matplotlib, Seaborn.
+Machine Learning Methodologies :
+Supervised Learning : Logistic Regression, Random Forest, SVM, Boosting, XGBoost, LightGBM.
+Unsupervised Learning : K-means, Clustering, Factor Analysis.
+NLP : RNN, LSTM, GRU, Seq2Seq Model, Attention Mechanism, Transformers.
+Data Engineering : PySpark, ETL Pipelines, Apache Airflow, Astro.
+MLOps : Git, Docker, CI/CD, MLFlow, DVC, Apache Airflow, AWS SageMaker, Grafana, PostgreSQL.
+Cloud : AWS (Bedrock, SageMaker, EC2, ECR, S3, Lambda, Elastic Beanstalk, API Gateway, …).
+Monitoring : Grafana.
+Key Projects & Expertise :
+Build scalable MLOps pipelines with Git, Docker, and CI/CD integration.
+Implement MLFlow and DVC for model versioning and experiment tracking.
+Automate ETL pipelines and ML workflows using Apache Airflow and Astro.
+Deploy end-to-end ML models with AWS SageMaker and Huggingface.
 
 ---
 

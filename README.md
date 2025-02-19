@@ -1,8 +1,8 @@
 ## 👋 Hi there, i am Rafei !  
 
-<p align="center">
-  <img src="https://tenor.com/fr/view/data-code-coding-facts-numbers-gif-27290748" alt="Coding GIF" />
-</p>
+
+
+<div class="tenor-gif-embed" data-postid="27290748" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">Data Code GIF</a>from <a href="https://tenor.com/search/data-gifs">Data GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 # Portfolio

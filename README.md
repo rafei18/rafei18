@@ -2,10 +2,10 @@
 
 
 
-https://tenor.com/b0FJw.gif
+
 
 <p align="center">
-  <img src="https://tenor.com/b0FJw.gif" alt="Coding GIF" />
+  <img src="tenor.gif" alt="Coding GIF" />
 </p>
 
 # Portfolio

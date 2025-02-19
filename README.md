@@ -1,5 +1,10 @@
 ## 👋 Hi there, i am Rafei !  
 
+<p align="center">
+  <img src="https://tenor.com/fr/view/data-code-coding-facts-numbers-gif-27290748" alt="Coding GIF" />
+</p>
+
+
 # Portfolio
 
 Graduated from Centrale Lille, I am a passionate Data Scientist and MLOps enthusiast with strong expertise in Machine Learning, Deep Learning, and large-scale model deployment. I have solid knowledge of MLOps and manage the full lifecycle of machine learning models, from development to production monitoring.

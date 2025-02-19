@@ -61,5 +61,5 @@ I enjoy exploring new cultures and landscapes. Traveling inspires me and offers 
 
 ## Contact Me
 
-- Connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/rafei-tchouar/))
+- Connect with me on [[LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/rafei-tchouar/))](https://www.linkedin.com/in/rafei-tchouar/)
 - Send me an email at [your-email-address](mailto:rafei.tchouar@gmail.com)

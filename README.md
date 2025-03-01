@@ -48,7 +48,7 @@ As a Data Scientist, I am deeply interested in Machine Learning, Data Analysis, 
 
 | Projet | Description | Mots-clés |
 |--------|------------|-----------|
-| ⚙️ [Detection of phishing attacks “networksecurity”](#https://github.com/rafei18/networksecurity) | End-to-end ML pipeline (ETL, validation, training, deployment via FastAPI, AWS, Docker, CI/CD). | Machine Learnning, ETL, Python, AWS(S3, EC2, ECR), Fast API, Docker, CI/CD, MLFlow, Dagshub. |
+| ⚙️ [Detection of phishing attacks “networksecurity”](https://github.com/rafei18/networksecurity) | End-to-end ML pipeline (ETL, validation, training, deployment via FastAPI, AWS, Docker, CI/CD). | Machine Learnning, ETL, Python, AWS(S3, EC2, ECR), Fast API, Docker, CI/CD, MLFlow, Dagshub. |
 | ⚙️ [End to End NlP project en urilisant HuggingFace et Transformers.](#) | Fine Tuning an LLM pour Text Summarization. | Transformers, HuggingFace, FastAPI |
 | ⚙️ [Anomaly detection](#) | Anomaly Detection For energi consumption using advanced DeepLearning architecture | Deep Learning, VAE, TCN-AE, Transformers, Anomaly detection |
 | ⚙️ [Customer churn prediction](#) | Development and deployment of a neural network model for customer churn prediction, with an interactive interface deployed via Streamlit. | Machine Learning, Neural Network, Python, Streamlit |

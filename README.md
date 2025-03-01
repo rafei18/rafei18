@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="tenor.gif" alt="Coding GIF" />
+  <img src="githubcv.png" alt="Coding GIF" />
 </p>
 
 # Portfolio

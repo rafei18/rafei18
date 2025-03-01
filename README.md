@@ -42,6 +42,23 @@ As a Data Scientist, I am deeply interested in Machine Learning, Data Analysis, 
 
 ---
 
+## Projects
+
+## 🚀 Principaux Projets
+
+| Projet | Description | Mots-clés |
+|--------|------------|-----------|
+| ⚙️ [Detection of phishing attacks “networksecurity”](#) | End-to-end ML pipeline (ETL, validation, training, deployment via FastAPI, AWS, Docker, CI/CD). | Machine Learnning, ETL, Python, AWS(S3, EC2, ECR), Fast API, Docker, CI/CD, MLFlow, Dagshub. |
+| ⚙️ [End to End NlP project en urilisant HuggingFace et Transformers.](#) | Fine Tuning an LLM pour Text Summarization. | Transformers, HuggingFace, FastAPI |
+| ⚙️ [Anomaly detection](#) | Anomaly Detection For energi consumption using advanced DeepLearning architecture | Deep Learning, VAE, TCN-AE, Transformers, Anomaly detection |
+| ⚙️ [Customer churn prediction](#) | Development and deployment of a neural network model for customer churn prediction, with an interactive interface deployed via Streamlit. | Machine Learning, Neural Network, Python, Streamlit |
+| ⚙️ [student performance prediction ](#) | end-to-end project development, from data processing to cloud deployment, for real-time student performance prediction.| Python, Scikit-learn, Flask, MLFlow, AWS Elastic Beanstalk |
+| ⚙️ [Wine Quality Prediction](#) |  End-to-end machine learning pipeline designed to predict the quality of wine based on its physicochemical properties | Machine learnig, Elastic Net regression model, Flask, Python |
+| ⚙️ [machinelearning pipeline using DVC](#) | Data Pipeline with DVC and MLflow for Machine Learning. | Machine learning, DVC, MLFlow, Dagshub, Python |
+| ⚙️ [Forest Fire Prediction ](#) | Machine Learning model to predict forest fire probability, deploying a Flask application with AWS Elastic Beanstalk for real-time predictions .| Machine learning, Python, MLFlow, Dagshub, AWS Elastic Beanstalk |
+
+
+
 ## Education
 
 - **Centrale Lille Engineering School**  

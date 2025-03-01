@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="rafei18" alt="Coding GIF" />
+  <img src="rafei18.png" alt="Coding GIF" />
 </p>
 
 # Portfolio

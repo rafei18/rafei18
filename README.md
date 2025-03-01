@@ -4,11 +4,13 @@
 
 
 
+
+# Portfolio
+
 <p align="center">
   <img src="rafei18.png" alt="Coding GIF" />
 </p>
 
-# Portfolio
 
 Graduated from Centrale Lille, I am a passionate Data Scientist and MLOps enthusiast with strong expertise in Machine Learning, Deep Learning, and large-scale model deployment. I have solid knowledge of MLOps and manage the full lifecycle of machine learning models, from development to production monitoring.
 
@@ -46,7 +48,7 @@ As a Data Scientist, I am deeply interested in Machine Learning, Data Analysis, 
 
 ## 🚀 Principaux Projets
 
-| Projet | Description | Mots-clés |
+| Project | Description | Keywords |
 |--------|------------|-----------|
 | ⚙️ [Detection of phishing attacks “networksecurity”](https://github.com/rafei18/networksecurity) | End-to-end ML pipeline (ETL, validation, training, deployment via FastAPI, AWS, Docker, CI/CD). | Machine Learnning, ETL, Python, AWS(S3, EC2, ECR), Fast API, Docker, CI/CD, MLFlow, Dagshub. |
 | ⚙️ [End to End NlP project en urilisant HuggingFace et Transformers.](https://github.com/rafei18/End-to-End-NLP-project-using-HuggingFace-Transformers) | Fine Tuning an LLM pour Text Summarization. | Transformers, HuggingFace, FastAPI |

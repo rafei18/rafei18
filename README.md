@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="githubcv.png" alt="Coding GIF" />
+  <img src="rafei18" alt="Coding GIF" />
 </p>
 
 # Portfolio
